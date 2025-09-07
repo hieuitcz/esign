@@ -1,4 +1,4 @@
-## How to build an EeveeSpotify IPA using Github actions
+## How to build an Hieudz IPA using Github actions
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
