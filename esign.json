@@ -50,7 +50,7 @@
       "type": 1
     },
     {
-      "name": "Glow for Facebook",
+      "name": "Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "hieudz",
       "version": "519.0.0",
@@ -65,7 +65,7 @@
       "type": 1
     },
     {
-      "name": "Flow for Messenger",
+      "name": "Messenger",
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "hieudz",
       "version": "511.0.0",
@@ -74,21 +74,6 @@
       "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/flow_1.0+511.0.ipa",
       "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
       "iconURL": "https://raw.githubusercontent.com/hieuitcz/esign/refs/heads/main/icon/messenger.jpg",
-      "tintColor": "AF38EB",
-      "isLanZouCloud": 0,
-      "size": 73615608,
-      "type": 1
-    },
-	    {
-      "name": "AnkiMobile Flashcards",
-      "bundleIdentifier": "com.facebook.Messenger",
-      "developerName": "hieudz",
-      "version": "25.07.1",
-      "versionDate": "2025-08-18T18:15:00+03:00",
-      "versionDescription": "- Initial release",
-      "downloadURL": "https://archive.org/download/sketchbook-6.2.1-13-le-ti/AnkiMobile%20Flashcards_25.07.1_LeTi.ipa",
-      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
-      "iconURL": "https://raw.githubusercontent.com/hieuitcz/esign/refs/heads/main/icon/anki.png",
       "tintColor": "AF38EB",
       "isLanZouCloud": 0,
       "size": 73615608,
@@ -125,6 +110,21 @@
       "type": 1
     },
 	    {
+      "name": "AnkiMobile Flashcards",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "hieudz",
+      "version": "25.07.1",
+      "versionDate": "2025-08-18T18:15:00+03:00",
+      "versionDescription": "- Initial release",
+      "downloadURL": "https://archive.org/download/sketchbook-6.2.1-13-le-ti/AnkiMobile%20Flashcards_25.07.1_LeTi.ipa",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/hieuitcz/esign/refs/heads/main/icon/anki.png",
+      "tintColor": "AF38EB",
+      "isLanZouCloud": 0,
+      "size": 73615608,
+      "type": 1
+    },
+	    {
       "name": "Mondly: Learn 41 Languages",
       "bundleIdentifier": "com.atistudios.MondlyLanguages",
       "developerName": "hieudz",
@@ -139,7 +139,52 @@
       "size": 73615608,
       "type": 1
     },
-	    {
+		{
+      "name": "MonPlayer",
+      "bundleIdentifier": "dev.monplayer.mpapp",
+      "developerName": "hieudz",
+      "version": "1.3.9",
+      "versionDate": "2025-05-22T18:15:00+03:00",
+      "versionDescription": "- MonPlayer No Ads – MonPlayer++ iPA bởi Lê Tí – iOS CodeVN.\n- MonPlayer++ iPA loại bỏ quảng cáo khỏi ứng dụng MonPlayer.",
+      "downloadURL": "https://archive.org/download/mon-player-1.3.9-14.0-le-ti/MonPlayer%2B%2B_1.3.9_14.0_LeTi.ipa",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/hieuitcz/esign/refs/heads/main/icon/monplayer.webp",
+      "tintColor": "AF38EB",
+      "isLanZouCloud": 0,
+      "size": 73615608,
+      "type": 1
+    },
+		{
+      "name": "BHTikTok++",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "hieudz",
+      "version": "38.3.0",
+      "versionDate": "2025-07-02T18:15:00+03:00",
+      "versionDescription": "- BHTikTok++ iPA by By iOSGods.com.",
+      "downloadURL": "https://www.dropbox.com/scl/fi/mka9koz26qinktvljcceh/BHTikTok-No-Jailbreak-Cheats-38.3.0-Hacked-IPA-by-iOSGods.com.ipa?rlkey=uq3ld7bxngucq1kv0sp7qesya&st=mutot7se&dl=0",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/hieuitcz/esign/refs/heads/main/icon/tiktok.jpg",
+      "tintColor": "AF38EB",
+      "isLanZouCloud": 0,
+      "size": 73615608,
+      "type": 1
+    },
+		{
+      "name": "SnapEdit: Photo Editor AI",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "developerName": "hieudz",
+      "version": "38.3.0",
+      "versionDate": "2025-07-02T18:15:00+03:00",
+      "versionDescription": "- SnapEdit Premium iPA By Laxus.",
+      "downloadURL": "https://www.dropbox.com/scl/fi/fo1nrxnu6y8wx4ywxrkzc/SnapEdit_-Photo-Editor-AI-Modded-No-Jailbreak-Cheats-6.0.4-Hacked-IPA-by-iOSGods.com.ipa?rlkey=lwsfapw41evki6vjdc2aqczq7&st=jilq4tlf&dl=0",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/hieuitcz/esign/refs/heads/main/icon/snapedit.jpg",
+      "tintColor": "AF38EB",
+      "isLanZouCloud": 0,
+      "size": 73615608,
+      "type": 1
+    },
+    	{
       "name": "Aloha VPN",
       "bundleIdentifier": "com.alohabrowser.vpn",
       "developerName": "hieudz",
