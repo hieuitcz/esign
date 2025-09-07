@@ -1,0 +1,38 @@
+{
+  "name": "Hieudz",
+  "identifier": "com.hieudz",
+  "sourceURL": "https://github.com/hieuitcz/esign/raw/refs/heads/main/esign.json",
+ 
+  "apps": [
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "hieudz",
+      "version": "20.35.2",
+      "versionDate": "2025-08-11T05:00:00+03:00",
+      "versionDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload",
+      "downloadURL": "https://github.com/hieuitcz/YTLite/releases/download/ytp-beta-2/youtube_5.2b3+20.35.2.ipa",
+      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "E36678",
+      "isLanZouCloud": 0,
+      "size": 115466859,
+      "type": 1
+    },
+    {
+      "name": "Spotify: Music and Podcasts",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "hieudz",
+      "version": "9.0.74",
+      "versionDate": "2025-06-14T18:15:00+03:00",
+      "versionDescription": "- Initial release",
+      "downloadURL": "https://github.com/hieuitcz/EeveeSpotifyReborn/releases/download/eevee-1/EeveeSpotify-9.0.74-patched.ipa",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/b1/53/bcb15337-6be3-f923-112e-313233b90b0a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "AF38EB",
+      "isLanZouCloud": 0,
+      "size": 73615608,
+      "type": 1
+    }
+  ]
+}
