@@ -5,7 +5,7 @@
  
   "apps": [
     {
-      "name": "YouTube Plus",
+      "name": "YouTube Premium",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "hieudz",
       "version": "20.35.2",
@@ -13,7 +13,7 @@
       "versionDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload",
       "downloadURL": "https://github.com/hieuitcz/YTLite/releases/download/ytp-beta-2/youtube_5.2b3+20.35.2.ipa",
       "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
-      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/hieuitcz/esign/refs/heads/main/icon/youtube.jpg",
       "tintColor": "E36678",
       "isLanZouCloud": 0,
       "size": 115466859,
