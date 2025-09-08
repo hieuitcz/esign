@@ -1,0 +1,19 @@
+Bước 1: Tải App MonPlayer
+App Store : https://apps.apple.com/vn/app/monplayer/id6590610364?l=vi
+Google Play : https://play.google.com/store/apps/details?id=org.monplayer.mpapp
+Bước 2: Copy Link thêm vào nguồn ứng dụng MonPlayer
+Tổng hợp trận đấu từ các trang Xoilac, Thapcam,...
+- https://tctv.pro
+- https://vbtv.pro
+Tổng hợp phim từ các trang như Rophim, Ophim,...
+- https://iptv.rophim.dev
+- https://op-pvd.moviedb.dev
+- https://kk-pvd.moviedb.dev
+- https://vp-pvd.moviedb.dev
+- https://tv-pvd.moviedb.dev
+Tổng hợp các bộ Anime mới nhất, hot nhất
+- https://iptv.animehay.dev
+- https://iptv.anime47.net
+Tổng hợp kênh truyền hình từ các trang như FPT, K+..
+- https://iptv.nhadai.org/v1
+- https://vtvgo.4share.me
